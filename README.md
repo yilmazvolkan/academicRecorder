@@ -56,5 +56,5 @@ the author and paper beforehand.
 
 <p align="center">
 <a href = "https://github.com/yilmazvolkan/academicRecorder"><img 
-<img src="https://github.com/yilmazvolkan/academicRecorder/blob/master/er-diagram.png" width="700" height="300"></a>
+<img src="https://github.com/yilmazvolkan/academicRecorder/blob/master/er-diagram.png" width="700" height="320"></a>
 </p>

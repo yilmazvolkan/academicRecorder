@@ -50,3 +50,11 @@ each paper has at least 1 topic and 1 author among the topics and authors. If
 there is no such records in the system, UI simply asks to create one.
    * To create a paper record, you should give result, name, abstract and determine
 the author and paper beforehand.
+
+
+# ER Diagram
+
+<p align="center">
+<a href = "https://github.com/yilmazvolkan/academicRecorder"><img 
+<img src="https://github.com/yilmazvolkan/academicRecorder/blob/master/er-diagram.png" width="700" height="300"></a>
+</p>
